@@ -1,4 +1,5 @@
-### Hi there 👋 I,M Akshay Khajuria
+<h1 align="center">Hi 👋, I'm Akshay Khajuria</h1>
+
 - 🔭 I’m currently working on Android and Flutter App Development
 - 📫 How to reach me: **akshay@techglock.com**
 
