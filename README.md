@@ -1,5 +1,3 @@
-
-[![Akshay's GitHub Banner](./Frame 1.png)]
 <h1 align="center">Hi 👋, I'm Akshay Khajuria</h1>
 
 - 🔭 I’m currently working on Android and Flutter App Development
