@@ -1,5 +1,6 @@
 ### Hi there 👋 I,M Akshay Khajuria
-
+- 🔭 I’m currently working on Android and Flutter App Development
+- 📫 How to reach me: **akshay@techglock.com**
 
 
 <h3 align="left">Connect with me:</h3>
