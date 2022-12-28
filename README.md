@@ -1,6 +1,12 @@
 ### Hi there 👋 I,M Akshay Khajuria
 
 
+
+<h3 align="left">Connect with me:</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-khajuria-817672141/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=919070210380&text=I'm%20interested%20in%20your%20Github%20Profile%20&app_absent=0)
+
 ## 📈 GitHub Stats 
 
 
